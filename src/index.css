@@ -4,9 +4,14 @@
   box-sizing: border-box;
 }
 .app{
-  background-image: url('C:\Users\Admin\intern-project\src\assets\bg_2.jpg');
+    background-color: #f3e5f5;
   min-height: 100vh;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
+}
+
+body {
+  overflow: hidden;
 }
