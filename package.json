@@ -2,7 +2,7 @@
   "name": "intern-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/praharsh27/Weather-App",
+  "homepage": "https://praharsh27.github.io/Project-One",
   "type": "module",
   "scripts": {
     "dev": "vite",
